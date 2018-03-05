@@ -1,0 +1,11 @@
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Debug\PUBGOnline.exe.config
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Debug\PUBGOnline.exe
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Debug\PUBGOnline.pdb
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Debug\PUBGOnline.Form1.resources
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Debug\PUBGOnline.Form2.resources
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Debug\PUBGOnline.Properties.Resources.resources
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Debug\PUBGOnline.csproj.GenerateResource.Cache
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Debug\PUBGOnline.exe
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Debug\PUBGOnline.pdb
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Debug\Resources\eliminateright.png
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Debug\Resources\eliminateleft.png

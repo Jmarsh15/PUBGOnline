@@ -1,0 +1,12 @@
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Release\PUBGOnline.exe.config
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Release\PUBGOnline.exe
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Release\PUBGOnline.pdb
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.Form1.resources
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.Properties.Resources.resources
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.csproj.GenerateResource.Cache
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.exe
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.pdb
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.csprojResolveAssemblyReference.cache
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\obj\Release\PUBGOnline.Form2.resources
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Release\Resources\eliminateright.png
+C:\Users\Jmarsh\documents\visual studio 2017\Projects\PUBGOnline\PUBGOnline\bin\Release\Resources\eliminateleft.png
